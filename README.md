@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning CSS, JS and PHP, I'm a student at NAIT majoring in Web design and development, DMIT.
+- 🔭 I have a bachelor's degree in Graphic Design at Chulalongkorn University.
+- ⚡ Fun fact: I'm a freelance digital illustrator.
+
 <!--
 **Chalisa-Ponsean/Chalisa-Ponsean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
